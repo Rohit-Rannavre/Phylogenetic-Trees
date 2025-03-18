@@ -12,7 +12,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 ***- RAxML-GUI (2.0.14) with the GTRGAMMAI model and 1000 rapid bootstrap replicates.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.%20RAxML%20GUI.png" width="600" height="400">
 
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-PhyML-54c7b9?style=for-the-badge)
