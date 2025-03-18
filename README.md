@@ -4,7 +4,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 <br>
 
-![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML-green?style=for-the-badge)
+![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-Randomized%20Axelerated%20Maximum%20Likelihood%20[RAxML]-green?style=for-the-badge)
 
 ***- RAxML-CLI (8.2.10) with the GTRCAT model, based on one single run and 1000 thorough bootstrap replicates.***
 
