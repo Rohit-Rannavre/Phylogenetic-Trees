@@ -1,7 +1,5 @@
 # :star: Phylogenetic Trees [2025]
 
-This repository contains some phylogenetic trees created for practical purposes.
-
 <br>
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-Randomized%20Axelerated%20Maximum%20Likelihood%20[RAxML]-green?style=for-the-badge)
