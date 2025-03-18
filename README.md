@@ -6,6 +6,10 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML-green?style=for-the-badge)
 
+***- RAxML-GUI with the GTRCAT model, based on one single run and 1000 through bootstrap replicates.***
+
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/1.%20RAxML%20GUI.png" width="600" height="400">
+
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-PhyML-54c7b9?style=for-the-badge)
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQTREE-eb3471?style=for-the-badge)
