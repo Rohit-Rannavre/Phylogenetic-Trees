@@ -18,7 +18,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.%20RAxML%20GUI.png" width="600" height="400">
 
-![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-PhyML-54c7b9?style=for-the-badge)
+![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-Phylogenetic%20Estimation%20Using%20Maximum%20Likelihood%20[PhyML]-54c7b9?style=for-the-badge)
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQTREE-eb3471?style=for-the-badge)
 
