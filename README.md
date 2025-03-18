@@ -12,7 +12,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 ***- RAxML-GUI (2.0.14) with the GTRCAT model, based on one single run and 1000 thorough bootstrap replicates.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/1.%20RAxML%20GUI.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/1.RAxML-GUI.png" width="600" height="400">
 
 ***- RAxML-GUI (2.0.14) with the GTRGAMMAI model and 1000 rapid bootstrap replicates.***
 
