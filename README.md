@@ -20,7 +20,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-Phylogenetic%20Estimation%20Using%20Maximum%20Likelihood%20[PhyML]-54c7b9?style=for-the-badge)
 
-![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQTREE-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
 
 ### **References:**
 > Edler, D., Klein, J., Antonelli, A. & Silvestro, D. (2020) raxmlGUI 2.0: A graphical interface and toolkit for phylogenetic analyses using RAxML. *Methods in Ecology and Evolution*, 12, 373–377.
