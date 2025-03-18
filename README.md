@@ -22,7 +22,7 @@ This repository contains some phylogenetic trees created for practical purposes.
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQTREE-eb3471?style=for-the-badge)
 
-## ***References:*** 
+### ***References:*** 
 > Edler, D., Klein, J., Antonelli, A. & Silvestro, D. (2020) raxmlGUI 2.0: A graphical interface and toolkit for phylogenetic analyses using RAxML. *Methods in Ecology and Evolution*, 12, 373–377.
 
 > Stamatakis, A. (2014) RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. *Bioinformatics*, 30 (9), 1312-1313.
