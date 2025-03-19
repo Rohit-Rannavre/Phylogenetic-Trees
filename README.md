@@ -28,7 +28,7 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.PhyML-CLI.png" width="600" height="400">
 
-***- PhyML-Server (3.0) with the automated model selection via SMS (GTRG) and 1000 bootstrap replicates.***
+***- PhyML-Server (3.0) with automated model selection via SMS (GTRG) and 1000 bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/4.PhyML-Server.png" width="600" height="400">
 
@@ -40,11 +40,11 @@
 
 > Trifinopoulos, J., Nguyen, L. T., von Haeseler, A. & Minh, B. Q. (2016) W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis. *Nucleic Acids Research*, 44 (1), 232-235.
 
-***- IQ-TREE-CLI (2.4.0) with the automated model selection via ModelFinder (TPM3u+F+G4) and 1000 ultrafast bootstrap replicates.***
+***- IQ-TREE-CLI (2.4.0) with automated model selection via ModelFinder (TPM3u+F+G4) and 1000 ultrafast bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/5.IQTREE-CLI.png" width="600" height="400">
 
-***- IQ-TREE-Server with the automated model selection via ModelFinder (TPM3+F+G4) and 100 standard bootstrap replicates.***
+***- IQ-TREE-Server with automated model selection via ModelFinder (TPM3+F+G4) and 100 standard bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/6.IQTREE-Server.png" width="600" height="400">
 
