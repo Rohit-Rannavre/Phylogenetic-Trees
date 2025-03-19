@@ -44,7 +44,7 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/5.IQTREE-CLI.png" width="600" height="400">
 
-***- IQ-TREE-Server with the automated model selection via ModelFinder (TPM3+F+G4) and 1000 ultrafast bootstrap replicates.***
+***- IQ-TREE-Server with the automated model selection via ModelFinder (TPM3+F+G4) and 100 standard bootstrap replicates.***
 
 <br>
 
