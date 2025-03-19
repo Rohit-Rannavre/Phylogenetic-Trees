@@ -18,7 +18,7 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.PhyML-CLI.png" width="600" height="400">
 
-***- PhyML-Server (3.0) with the automated model selection via SMS (GTR+G) and 1000 bootstrap replicates.***
+***- PhyML-Server (3.0) with the automated model selection via SMS (GTRG) and 1000 bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/4.PhyML-Server.png" width="600" height="400">
 
