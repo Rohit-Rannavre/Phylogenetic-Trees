@@ -40,6 +40,10 @@
 
 > Trifinopoulos, J., Nguyen, L. T., von Haeseler, A. & Minh, B. Q. (2016) W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis. *Nucleic Acids Research*, 44 (1), 232-235.
 
+***- IQ-TREE-CLI (2.4.0) with the automated model selection via ModelFinder () and 1000 ultrafast bootstrap replicates.***
+
+***- IQ-TREE-Server with the automated model selection via ModelFinder () and 1000 ultrafast bootstrap replicates.***
+
 <br>
 
 ### ***Let's connect:*** 
