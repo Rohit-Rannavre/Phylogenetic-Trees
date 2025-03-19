@@ -18,6 +18,8 @@
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-Phylogenetic%20Estimation%20Using%20Maximum%20Likelihood%20[PhyML]-54c7b9?style=for-the-badge)
 
+> Guindon, S. & Gascuel, O. (2003) PhyML: A simple, fast and accurate algorithm to estimate large phylogenies by maximum likelihood. *Systematic Biology*, 52 (5), 696-704.
+
 > Guindon, S., Dufayard, J.F., Lefort, V., Anisimova, M., Hordijk, W. & Gascuel, O. (2010) New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. *Systematic Biology*, 59 (3), 307-321.
 
 > Lefort, V., Longueville, J-E. & Gascuel, O. (2017) SMS: Smart Model Selection in PhyML. *Molecular Biology and Evolution*, 34 (9), 2422-2424.
