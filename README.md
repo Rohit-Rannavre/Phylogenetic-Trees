@@ -27,10 +27,14 @@
 ### **References:**
 > Edler, D., Klein, J., Antonelli, A. & Silvestro, D. (2020) raxmlGUI 2.0: A graphical interface and toolkit for phylogenetic analyses using RAxML. *Methods in Ecology and Evolution*, 12, 373–377.
 
+> Guindon, S., Dufayard, J.F., Lefort, V., Anisimova, M., Hordijk, W. & Gascuel, O. (2010) New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. *Systematic Biology*, 59 (3), 307-321.
+
+> Lefort, V., Longueville, J-E. & Gascuel, O. (2017) SMS: Smart Model Selection in PhyML. *Molecular Biology and Evolution*, 34 (9), 2422-2424.
+
 > Stamatakis, A. (2014) RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. *Bioinformatics*, 30 (9), 1312-1313.
 
 <br>
 
 ### ***Let's connect:*** 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
