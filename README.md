@@ -48,11 +48,11 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/6.IQTREE-Server.png" width="600" height="400">
 
-![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
 > Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D. L., Darling, A., Höhna, S., Larget, B., Liu, L., Suchard, M. A. & Huelsenbeck, J. P. (2012) MrBayes 3.2: efficient bayesian phylogenetic inference and model selection across a large model space. *Systematic Biology*, 61 (3), 539-542.
 
-![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-BEAST-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-Bayesian%20Evolutionary%20Analysis%20Sampling%20Trees%20[BEAST]-d924ed?style=for-the-badge)
 
 <br>
 
