@@ -8,9 +8,7 @@
 
 > Stamatakis, A. (2014) RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. *Bioinformatics*, 30 (9), 1312-1313.
 
-***- RAxML-CLI (8.2.10) with the GTRCAT model, based on one single run and 1000 thorough bootstrap replicates.***
-
-***- RAxML-GUI (2.0.14) with the GTRGAMMAI model and 1000 rapid bootstrap replicates.***
+***- RAxML-GUI (2.0.14) with the GTRGAMMAI model, one single run and 1000 thorough bootstrap replicates.***
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
 
