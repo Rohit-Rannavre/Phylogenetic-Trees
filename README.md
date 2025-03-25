@@ -38,7 +38,7 @@
 
 ***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MrBayes.png" width="600" height="400">
 
 ***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the models GTR+G, HKY+G and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 25% burn-in.***
 
