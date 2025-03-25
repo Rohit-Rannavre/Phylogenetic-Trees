@@ -38,6 +38,10 @@
 
 ***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the GTRGAMMAI model, 1000000 generations and 25% burn-in.***
 
+***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the models GTR+G, HKY+G and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 25% burn-in.***
+
+<img src="" width="600" height="400">
+
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-Bayesian%20Evolutionary%20Analysis%20Sampling%20Trees%20[BEAST]-d924ed?style=for-the-badge)
 
 <br>
