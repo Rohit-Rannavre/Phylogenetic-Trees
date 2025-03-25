@@ -22,8 +22,6 @@
 
 > Minh, B. Q., Schmidt, H. A., Chernomor, O., Schrempf, D., Woodhams, M. D., von Haeseler, A. & Lanfear, R. (2020) IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era. *Molecular Biology and Evolution*, 37 (5), 1530-1534.
 
-> Trifinopoulos, J., Nguyen, L. T., von Haeseler, A. & Minh, B. Q. (2016) W-IQ-TREE: a fast online phylogenetic tool for maximum likelihood analysis. *Nucleic Acids Research*, 44 (1), 232-235.
-
 ***- IQ-TREE-CLI (2.4.0) with automated model selection, based on BIC, via ModelFinder (TPM3uFG4) and 1000 ultrafast bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IQTREE.png" width="600" height="400">
