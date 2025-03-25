@@ -36,7 +36,9 @@
 
 > Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D. L., Darling, A., Höhna, S., Larget, B., Liu, L., Suchard, M. A. & Huelsenbeck, J. P. (2012) MrBayes 3.2: efficient bayesian phylogenetic inference and model selection across a large model space. *Systematic Biology*, 61 (3), 539-542.
 
-***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the GTRGAMMAI model, 1000000 generations and 25% burn-in.***
+***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
+
+<img src="" width="600" height="400">
 
 ***- MrBayes-CLI (3.2.7) with 2 runs, 4 chains, the models GTR+G, HKY+G and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 25% burn-in.***
 
