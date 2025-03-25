@@ -10,7 +10,7 @@
 
 ***- RAxML-GUI (2.0.14) with one single run, the GTRGAMMAI model and 1000 thorough bootstrap replicates.***
 
-<img src="" width="300" height="300">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/RAxML-GUI.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
 
