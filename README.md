@@ -26,7 +26,9 @@
 
 ***- IQ-TREE-CLI (2.4.0) with automated model selection via ModelFinder (TPM3uFG4) and 1000 ultrafast bootstrap replicates.***
 
-***- IQ-TREE-CLI (2.4.0) with the models (GTR+G, HKY+G, HKY) as selected by PartitionFinder (2.1.1) for codon-based partitions and 1000 ultrafast bootstrap replicates.***
+***- IQ-TREE-CLI (2.4.0) with the models GTR+G, HKY+G and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions and 1000 ultrafast bootstrap replicates.***
+
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IQTREE-2.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
