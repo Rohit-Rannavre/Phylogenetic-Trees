@@ -12,6 +12,10 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/RAxML-GUI.png" width="600" height="400">
 
+***- RAxML-GUI (2.0.14) with one single run, codon-based partitioning, the GTRGAMMA model as selected by PartitionFinder (2.1.1) and 1000 thorough bootstrap replicates.***
+
+<img src="" width="600" height="400">
+
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
 
 > Kalyaanamoorthy, S., Minh, B. Q., Wong, T. K. F., von Haeseler, A. & Jermiin, L. S. (2017) ModelFinder: fast model selection for accurate phylogenetic estimates. *Nature Methods*, 14, 587-589.
