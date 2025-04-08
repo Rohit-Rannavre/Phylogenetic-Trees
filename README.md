@@ -10,7 +10,7 @@
 
 ***- Automated model selection, based on BIC, via ModelFinder (TPM2+G4, TPM3u+F+G4, HKY+F+G4) for codon-based partitions, 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.IT.png" width="600" height="400">
 
 ***- Models GTRG, HKYG and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions and 1000 ultrafast bootstrap replicates.***
 
