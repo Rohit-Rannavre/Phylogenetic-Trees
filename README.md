@@ -6,9 +6,11 @@
 
 ***- Automated model selection, based on BIC, via ModelFinder (TIM2+F+G4), 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/1.IT.png" width="600" height="400">
 
 ***- Models GTRG, HKYG and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions and 1000 ultrafast bootstrap replicates.***
+
+<img src="" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
