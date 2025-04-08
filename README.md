@@ -12,7 +12,7 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.IT.png" width="600" height="400">
 
-***- Models GTRG, HKYG and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions and 1000 ultrafast bootstrap replicates.***
+***- Models K80+G, HKY+G, HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
 
 <img src="" width="600" height="400">
 
