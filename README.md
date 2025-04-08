@@ -12,19 +12,19 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IT-2.png" width="600" height="400">
 
-***- Automated model selection, based on BIC, via PartitionFinder (K80+G, HKY+G, HKY+G) for codon-based partitions, 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
+***- Automated model selection, based on BIC, via PartitionFinder (K80+G, HKY+I, HKY+G) for codon-based partitions, 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.IT.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IT-3.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
 ***- 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MrBayes.png" width="600" height="400">
+<img src="" width="600" height="400">
 
 ***- 2 runs, 4 chains, the models GTRG, HKYG and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 25% burn-in.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MrBayes-2.png" width="600" height="400">
+<img src="" width="600" height="400">
 
 <br>
 
