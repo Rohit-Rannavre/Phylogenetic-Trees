@@ -20,7 +20,7 @@
 
 ***- 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
 
-***- 2 runs, 4 chains, the models GTRG, HKYG and HKY as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 25% burn-in.***
+***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 20% burn-in.***
 
 <br>
 
