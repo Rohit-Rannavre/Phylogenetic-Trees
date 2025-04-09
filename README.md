@@ -18,7 +18,9 @@
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
-***- 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
+***- 2 runs, 4 chains, the GTR+G+I model, 2000000 generations and 20% burn-in.***
+
+<img src="" width="600" height="400">
 
 ***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 2000000 generations and 20% burn-in.***
 
