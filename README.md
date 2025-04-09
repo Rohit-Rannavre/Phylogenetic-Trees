@@ -18,9 +18,9 @@
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
-***- 2 runs, 4 chains, the GTR+G+I model, 2000000 generations and 20% burn-in.***
+***- 2 runs, 4 chains, the GTR+G model, 2000000 generations and 20% burn-in.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MB-1.png" width="600" height="400">
 
 ***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 2000000 generations and 20% burn-in.***
 
