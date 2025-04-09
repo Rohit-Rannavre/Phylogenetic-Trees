@@ -20,7 +20,9 @@
 
 ***- 2 runs, 4 chains, the GTRGAMMAI model, 200000 generations and 25% burn-in.***
 
-***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 200000 generations and 20% burn-in.***
+***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 2000000 generations and 20% burn-in.***
+
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MB-2.png" width="600" height="400">
 
 <br>
 
