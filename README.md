@@ -4,27 +4,27 @@
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
 
-***- Automated model selection, based on BIC, via ModelFinder (TPM2u+F+G4), 1000 ultrafast bootstrap replicates.***
+***- Automated model selection, based on BIC, via ModelFinder (TPM2u+F+G4) & 1000 ultrafast bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/1.png" width="600" height="400">
 
-***- Automated model selection, based on BIC, via ModelFinder (TN+F+R2, TN+F+G4, TPM2u+F+G4) for codon-based partitions, 1000 ultrafast bootstrap replicates.***
+***- Automated model selection, based on BIC, via ModelFinder (TN+F+R2, TN+F+G4, TPM2u+F+G4) for codon-based partitions & 1000 ultrafast bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.png" width="600" height="400">
 
-***- Automated model selection, based on BIC, via PartitionFinder (HKY+G) for codon-based partitions, 1000 ultrafast bootstrap replicates.***
+***- Automated model selection, based on BIC, via PartitionFinder (HKY+G) for codon-based partitions & 1000 ultrafast bootstrap replicates.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
-***- 2 runs, 4 chains, the GTR+G model, 2000000 generations and 20% burn-in.***
+***- 2 runs, 4 chains, the GTR+G+I model, 500000 generations & 20% burn-in.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MB-1.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/4.png" width="600" height="400">
 
-***- 2 runs, 4 chains, the models K80+G, HKY+I and HKY+G as selected by PartitionFinder (2.1.1) for codon-based partitions, 2000000 generations and 20% burn-in.***
+***- 2 runs, 4 chains, the HKY+G model as selected by PartitionFinder for codon-based partitions, 500000 generations & 20% burn-in.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/MB-2.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/5.png" width="600" height="400">
 
 <br>
 
