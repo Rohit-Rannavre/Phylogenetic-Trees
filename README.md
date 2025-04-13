@@ -10,11 +10,11 @@
 
 ***- Automated model selection, based on BIC, via ModelFinder (TN+F+R2, TN+F+G4, TPM2u+F+G4) for codon-based partitions, 1000 ultrafast bootstrap replicates.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IT-2.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/2.png" width="600" height="400">
 
-***- Automated model selection, based on BIC, via PartitionFinder (K80+G, HKY+I, HKY+G) for codon-based partitions, 1000 SH-like alrt and 1000 ultrafast bootstrap replicates.***
+***- Automated model selection, based on BIC, via PartitionFinder (HKY+G) for codon-based partitions, 1000 ultrafast bootstrap replicates.***
 
-<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/IT-3.png" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
