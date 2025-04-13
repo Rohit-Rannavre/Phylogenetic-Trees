@@ -22,7 +22,7 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/4.png" width="600" height="400">
 
-***- 2 runs, 4 chains, the HKY+G model as selected by PartitionFinder for codon-based partitions, 500000 generations & 20% burn-in.***
+***- Automated model selection, based on BIC, via PartitionFinder (HKY+G) for codon-based partitions, 2 runs, 4 chains, 500000 generations & 20% burn-in.***
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/5.png" width="600" height="400">
 
