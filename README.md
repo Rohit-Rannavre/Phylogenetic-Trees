@@ -28,7 +28,7 @@
 
 ***- Automated model selection via the jump method (rjMCMC), 2 runs, 4 chains, 2000000 generations & 25% burn-in.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/6.png" width="600" height="400">
 
 <br>
 
