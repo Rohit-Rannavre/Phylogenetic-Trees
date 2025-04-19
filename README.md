@@ -18,7 +18,7 @@
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML--NG-eb3471?style=for-the-badge)
 
-***- The model GTR+G4+I & 1000 standard bootstrap replicates.***
+***- The GTR+G4+I model & 1000 standard bootstrap replicates.***
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
