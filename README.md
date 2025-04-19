@@ -22,9 +22,9 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/7.png" width="600" height="400">
 
-***- Automated model selection, based on BIC, via IQ-TREE's ModelFinder (HKY+R2, GTR+G4, TIM2+G4) for codon-based partitions & 1000 standard bootstrap replicates.***
+***- The HKY+R2, GTR+G4, TIM2+G4 models for codon-based partitions & 1000 standard bootstrap replicates.***
 
-<img src="" width="600" height="400">
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/8.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
