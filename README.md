@@ -16,9 +16,11 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.png" width="600" height="400">
 
-![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML--NG-eb3471?style=for-the-badge)
+![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML--NG-bd5724?style=for-the-badge)
 
 ***- The GTR+G4+I model & 1000 standard bootstrap replicates.***
+
+<img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/7.png" width="600" height="400">
 
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
