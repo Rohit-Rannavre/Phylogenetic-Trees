@@ -22,6 +22,10 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/7.png" width="600" height="400">
 
+***- Automated model selection, based on BIC, via IQ-TREE's ModelFinder (TN+F+R2, TN+F+G4, TPM2u+F+G4) for codon-based partitions & 1000 standard bootstrap replicates.***
+
+<img src="" width="600" height="400">
+
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
 ***- 2 runs, 4 chains, the GTR+G+I model, 500000 generations & 20% burn-in.***
