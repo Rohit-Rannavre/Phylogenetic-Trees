@@ -16,6 +16,10 @@
 
 <img src="https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Trees/3.png" width="600" height="400">
 
+![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-RAxML--NG-eb3471?style=for-the-badge)
+
+***- The model GTR+G4+I & 1000 standard bootstrap replicates.***
+
 ![](https://img.shields.io/badge/BAYESIAN%20INFERENCE%20-MRBAYES-ebe534?style=for-the-badge)
 
 ***- 2 runs, 4 chains, the GTR+G+I model, 500000 generations & 20% burn-in.***
