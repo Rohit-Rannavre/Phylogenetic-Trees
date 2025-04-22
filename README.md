@@ -1,5 +1,7 @@
 # :star: Phylogenetic Trees [2025]
 
+NOTE: The interspecific sequence divergence (p-distance) can be seen [here](https://github.com/Rohit-Rannavre/Phylogenetic-Trees/blob/main/Datasets/pDistance.png).
+
 <br>
 
 ![](https://img.shields.io/badge/MAXIMUM%20LIKELIHOOD%20-IQ--TREE-eb3471?style=for-the-badge)
